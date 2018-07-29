@@ -459,7 +459,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 									<ul class="actions">
 										<li><input value="Subscribe" name="subscribe" id="groupsio-embedded-subscribe" class="button" type="submit"></li>
 									</ul>
-								</div> 
+								</div>
       
     </div>
   </form>
